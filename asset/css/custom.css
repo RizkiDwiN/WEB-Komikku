@@ -1,0 +1,88 @@
+#neubar {
+    background: rgba(0, 0, 0, 0);
+  }
+   
+  .nav-item .active {
+    background-color:rgba(0, 0, 0, 0);;
+    padding: 5px 24px;
+    font-size: 16px;
+    cursor: pointer;
+    color: #FDDB7A;
+  }
+  .nav-item .active:hover {
+    color: grey;
+  }
+  .nav-item .nonactive {
+    padding: 5px 24px;
+    font-size: 16px;
+    cursor: pointer;
+    color: #FDDB7A;
+  }
+  .nav-item .nonactive:hover {
+    background-color:rgba(0, 0, 0, 0);;
+    color: white;
+  }
+  #neu
+  #neubar .dropdown-menu a:hover {
+    color: #454545
+  }
+  #neubar .nav-item {
+    margin : auto 4px;
+  }
+  #neubar a {
+   
+    padding-left:12px;
+    padding-right:12px;
+  }
+  #neubar .dropdown-menu {
+    background : #545454
+  }
+  a.navbar-brand {
+    color: #454545
+  }
+
+  hr.new4 {
+    border: 4px solid #fff;
+  }
+.posisi{
+    position: absolute;
+      left: 33%;
+      top: 25%;
+      transform: translate(-50%);
+      -webkit-transform: translate(-50%);
+      -moz-transform: translate(-50%);
+      -o-transform: translate(-50%);
+  }
+.bawah{
+    position: absolute;
+      left: 28%;
+      top: 35%;
+      transform: translate(-50%);
+      -webkit-transform: translate(-50%);
+      -moz-transform: translate(-50%);
+      -o-transform: translate(-50%);
+  }
+.bg-grey{
+    background-color: grey;
+}
+.bold {
+    font-weight: bold;
+}
+.yellow{
+    color: #FDDB7A;
+}
+.black{
+  color: #000000;
+}
+.white{
+  color: #ffffff;
+}
+.spasi{
+  word-spacing: 10em
+}
+.kapital{
+  text-transform: uppercase;
+}
+.ukuran{
+  font-size: 10px;
+}
